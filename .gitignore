@@ -1,0 +1,7 @@
+# Misc IDE Bits
+# These are not checked in cause we all like to to set things up our own way
+.idea/
+.vscode/
+
+# Workaround for GitHub Copilot
+.github/cmd
